@@ -26,3 +26,7 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+tr:nth-child(2n) {
+	background-color: rgba(123, 228, 123, 0.669);
+}
